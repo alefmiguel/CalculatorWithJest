@@ -1,0 +1,10 @@
+.container {
+    background-color: #d3d3d3;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: right;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30pt;
+}

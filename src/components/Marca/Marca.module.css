@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&family=Work+Sans&display=swap');
+
+.container {
+    text-align: center;
+}
+
+.txtMarca {
+    font-size: 3em;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.txtMarca:hover {
+    opacity: .7;
+    transition: .4s all ease-in-out;
+    cursor: pointer;
+}
